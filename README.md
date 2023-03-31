@@ -1,7 +1,8 @@
 Restaurante Vapt Vupt
 
 
-Aplicativo para o restaurante Vapt Vupt está sendo desenvolvido em React Native. O aplicativo tem cardápio logo na tela inicial onde é exibido ao usuário os pratos disponíveis, uma descrição do produto e o valor. Na segunda tela é possível a visualização do produto com a opção de adiciona-lo no carrinho. O carrinho vai exibir todos os itens inseridos, bem como um campo para inserir o e-mail do usuário para finalizar a compra. Após finalizado, é exibido ao usuário uma mensagem de "Pedido Cadastrado com Sucesso" no banco de dados Firebase.
+Aplicativo para o restaurante Vapt Vupt está sendo desenvolvido em React Native. O aplicativo tem cardápio logo na tela inicial onde é exibido ao usuário os pratos disponíveis, uma descrição do produto e o valor. Na segunda tela é possível a visualização do produto com a opção de adiciona-lo no carrinho. O carrinho vai exibir todos os itens inseridos, bem como um campo para inserir o e-mail do usuário para finalizar a compra. Após finalizado, é exibido ao usuário uma mensagem de "Pedido Cadastrado com Sucesso" .
+Persistencia de dados no Firebase
 Utilizando o EXPO.
 
 
